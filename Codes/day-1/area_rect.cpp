@@ -1,3 +1,4 @@
+//area of rectangle
 #include <iostream>
 using namespace std;
 
